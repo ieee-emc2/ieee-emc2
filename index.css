@@ -2,8 +2,8 @@ body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	text-align: center;
 	font-size: 90%;
-	background-color: #f2f2f2;
 }
+/*	background-color: #f2f2f2;*/
 /* Overall Font Style */
 p, ul, ol, li dl, dd, dt{
 	color: #333333;
@@ -116,9 +116,9 @@ a:active {
 	text-align: left;
 }
 #header {
-	background:url(images/top.png) no-repeat ;
+	background:url(images/top.jpg) no-repeat ;
 	width: 1200px;
-	height:453px;
+	height:680px;
 	margin:0px;
 	padding:0;
 }
